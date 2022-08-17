@@ -1,0 +1,40 @@
+INFO:root:important library imported
+INFO:root:Data Read Successfully
+INFO:root:Column name changed
+INFO:root:? changed with nan
+INFO:root:Unused column deleted
+INFO:root:column type changed to numeric
+INFO:root:Age outier Removed 
+INFO:root:TSH outlier removed
+INFO:root:Catagorical feature converted
+INFO:root:Null vaues filled successfully
+INFO:root:test, train and validation data created!!!!
+INFO:root:Null values filled of validation data
+INFO:root:Data balanced Successfully!!!!!!
+INFO:root:Four Feature selected Successfully!!!
+INFO:root:Pipelines created for Our Models!!!
+INFO:root:All the pipelines fitted.
+INFO:root:Accuracy of Logistic_Regression 67.76
+INFO:root:Recall of Logistic_Regression 0.64
+INFO:root:===================================================================
+INFO:root:Accuracy of KNN 74.84
+INFO:root:Recall of KNN 0.71
+INFO:root:===================================================================
+INFO:root:Accuracy of SVC 76.61
+INFO:root:Recall of SVC 0.68
+INFO:root:===================================================================
+INFO:root:Accuracy of xgboost 84.26
+INFO:root:Recall of xgboost 0.79
+INFO:root:===================================================================
+INFO:root:Accuracy of decision_tree 78.09
+INFO:root:Recall of decision_tree 0.69
+INFO:root:===================================================================
+INFO:root:Accuracy of Random_forest 82.89
+INFO:root:Recall of Random_forest 0.73
+INFO:root:{'random_forest__n_estimators': 400, 'random_forest__max_depth': 50}
+INFO:root:Random Forest model 
+INFO:root:{'XGboost__n_estimators': 10000, 'XGboost__max_depth': 15, 'XGboost__learning_rate': 0.005, 'XGboost__colsample_bytree': 0.9}
+INFO:root:XGBoost Model trained.
+INFO:root:model selection Done !!!
+INFO:root:model selection Done !!!
+INFO:root:Both model dump successfully
