@@ -2,7 +2,7 @@ import numpy as np
 import pickle
 from flask import Flask, request, render_template
 
-app = Flask(__name__)
+app = Flask(__name__,template_folder='Templates')
 model_rf = pickle.load(open("Random_forest_model.pkl", "rb"))
 model_xgb = pickle.load(open("XGBoost_model.pkl", "rb"))
 
