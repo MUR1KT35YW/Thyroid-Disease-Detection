@@ -1,4 +1,6 @@
 Thyroid Disease Detection
+
+
 URL address: https://thyroid-detection.herokuapp.com/
 Project Demo Video: https://youtu.be/7BxhoPztwTw
 
@@ -16,4 +18,4 @@ Architecture:
 The architecture of this entire solution is shown below:- architecture
 
 Contributer:
-Kumar Trinayan Bharadwaj
+Prince Singhal
