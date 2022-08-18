@@ -2,7 +2,7 @@
 
 URL address: https://thyroid-detection.herokuapp.com/
 
-Project Demo Video: https://youtu.be/7BxhoPztwTw
+Project Demo Video: https://drive.google.com/file/d/1CijrtvZbyGLmnedCf43rHdGfZG9nrb-l/view?usp=sharing
 
 Thyroid disease is a common cause of medical diagnosis and prediction, with an onset that is difficult to forecast in medical research. The thyroid gland is one of our body's most vital organs. Thyroid hormone releases are responsible for metabolic regulation. Hyperthyroidism and hypothyroidism are one of the two common diseases of the thyroid that releases thyroid hormones in regulating the rate of body's metabolism.
 
