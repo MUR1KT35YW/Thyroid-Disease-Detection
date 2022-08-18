@@ -25,7 +25,7 @@ On Clicking the URL adrress the user will land on this homepage:-
 
 # Architecture:
 The architecture of this entire solution is shown below:-
-![architecture](https://user-images.githubusercontent.com/63582471/141608211-59a70b0e-3137-4b14-ac79-d57fb95e5e05.png)
+![architecture](https://github.com/MUR1KT35YW/Thyroid-Disease-Detection/blob/master/Documents/flowchart.PNG?raw=true)
 
 # Contributer:
 Kumar Trinayan Bharadwaj
