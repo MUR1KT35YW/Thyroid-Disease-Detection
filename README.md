@@ -11,21 +11,12 @@ Thyroid disease is a common cause of medical diagnosis and prediction, with an o
 # Problem Statement:
 The main goal is to predict the estimated risk on a patient's chance of obtaining thyroid disease or not.
 
-# Tools Used:
-![tools used](https://user-images.githubusercontent.com/63582471/141608807-3de73501-4b21-4493-a911-463877a04ea2.jpg)
-
-
-# Deployment:
-The solution is deployed on Amazon Web Services (AWS) on EC2 Instance using Linux environment.  
-![image](https://user-images.githubusercontent.com/63582471/141607984-309840bc-a442-46af-bb28-83172701a0b6.png)
-
-
 On Clicking the URL adrress the user will land on this homepage:-
-![complete web app screenshot](https://user-images.githubusercontent.com/63582471/141608049-ce51899b-0b34-4cef-8594-335996dcbe18.png)
+![complete web app screenshot](https://github.com/MUR1KT35YW/Thyroid-Disease-Detection/blob/master/Documents/Homepage.PNG?raw=true)
 
 # Architecture:
 The architecture of this entire solution is shown below:-
 ![architecture](https://github.com/MUR1KT35YW/Thyroid-Disease-Detection/blob/master/Documents/flowchart.PNG?raw=true)
 
 # Contributer:
-Kumar Trinayan Bharadwaj
+Prince Singhal
